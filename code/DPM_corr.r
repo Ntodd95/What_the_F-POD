@@ -1,4 +1,5 @@
 #DPM corr.
+#code provided for DPM correlations. Other correlations computed in the same manner for Nclx, DPH, DPD etc...
 #30/06/2022
 #Nicole Todd
 
